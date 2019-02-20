@@ -5,6 +5,7 @@
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/junquera/stalker.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/junquera/stalker/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/junquera/stalker.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/junquera/stalker/context:python)
+[![Build Status](https://travis-ci.org/junquera/stalker.svg?branch=master)](https://travis-ci.org/junquera/stalker)
 
 ## Detection
 
